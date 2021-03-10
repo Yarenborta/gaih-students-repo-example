@@ -11,3 +11,6 @@ list3=[ (a+b)*2 for a,b in zip(list1,list2)] # pooled to 2 lists and multiply al
 
 print(type(list3),list3) #give a data type of the all values in the list3.
 
+
+
+
